@@ -1,0 +1,1 @@
+Create a new txt file for excerise git rm op.
